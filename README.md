@@ -1,20 +1,19 @@
 <h1 align="center">Hi 👋, I'm Eskadimas Melaku</h1>
 <h3 align="center">A passionate Full stack developer from Ethiopia</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eskadimasmelaku&label=Profile%20views&color=0e75b6&style=flat" alt="eskadimasmelaku" /> </p>
 
 - 🌱 I’m currently learning **Software Engineering at Alx/Holberton School**
 
 - 👨‍💻 All of my projects are available at [https://eskad-portifolio-81e64.web.app/](https://eskad-portifolio-81e64.web.app/)
 
-- 💬 Ask me about **HTML,CSS,Bootstrap,Javascript,React and Redux**
+- 💬 Ask me about **HTML,CSS,Bootstrap,Javascript,React, Redux and python**
 
 - 📫 How to reach me **eskadimasmelaku@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1E4K0g7kYO5DALjNg3ogOhfZucjaYv8tF/view?usp=sharing](https://drive.google.com/file/d/1E4K0g7kYO5DALjNg3ogOhfZucjaYv8tF/view?usp=sharing)
 
-- ⚡ Fun fact **A cup of tea is all what need**
+- ⚡ Fun fact **Did you know that all you need is a cup of tea to make everything better**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
